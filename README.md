@@ -17,7 +17,7 @@ La piscine Web3 est divisée en plusieurs jours, chacun se concentrant sur des a
 - Exercice 00 : Convertissez vos ETH en votre token.
 - Exercice 01 : Développement d'un jeu Web3.
 - Exercice 02 : Déploiement du jeu.
-- Exercice 02 : Sécuriser et tester le contrat du jeu.
+- Exercice 03 : Sécuriser et tester le contrat du jeu.
 
 ### Day 02 - Développement d'une dApp
 - Exercice 00 : Création de l'interface utilisateur de connexion.

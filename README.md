@@ -23,7 +23,7 @@ La piscine Web3 est divisée en plusieurs jours, chacun se concentrant sur des a
 - Exercice 01 : Implémentation de fonctionnalités supplémentaires dans la dApp.
 - Exercice 02 : Amélioration de l'interface utilisateur et de l'expérience utilisateur.
 
-### Day 03 - Gouvernance
+### Day 03 - Gouvernance et staking
 - Exercice 00 : Mise en place du mécanisme de staking et de récompenses.
 - Exercice 01 : Mise en place du vote pour la gouvernance.
 - Exercice 02 : Implémentation des récompenses en fonction des votes.

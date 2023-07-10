@@ -39,6 +39,7 @@ Chaque jour de la piscine vous propose des exercices progressifs, vous permettan
 
 ## Prêt à plonger dans le Web3 ?
 
-Préparez-vous à plonger dans le monde passionnant du développement Web3 ! Suivez les instructions de chaque exercice, développez vos compétences et explorez les possibilités offertes par le Web décentralisé. Bonne chance et profitez de cette expérience immersive dans le Web3 !
+Préparez-vous à plonger dans le monde passionnant du développement Web3 ! Suivez les instructions de chaque exercice, développez vos compétences et explorez les possibilités offertes par le Web décentralisé.
+Bonne chance et profitez de cette expérience immersive dans le Web3 !
 
 vcart

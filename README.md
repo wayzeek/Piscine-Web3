@@ -17,16 +17,18 @@ La piscine Web3 est divisée en plusieurs jours, chacun se concentrant sur des a
 - Exercice 00 : Convertissez vos ETH en votre token.
 - Exercice 01 : Développement d'un jeu Web3.
 - Exercice 02 : Déploiement du jeu.
+- Exercice 02 : Sécuriser et tester le contrat du jeu.
 
 ### Day 02 - Développement d'une dApp
-- Exercice 00 : Création de l'interface utilisateur pour interagir avec le jeu.
+- Exercice 00 : Création de l'interface utilisateur de connexion.
 - Exercice 01 : Implémentation de fonctionnalités supplémentaires dans la dApp.
-- Exercice 02 : Amélioration de l'interface utilisateur et de l'expérience utilisateur.
+- Exercice 02 : Implémentation de fonctionnalités supplémentaires dans la dApp.
+- Exercice 03 : Amélioration de l'interface utilisateur et de l'expérience utilisateur.
 
 ### Day 03 - Gouvernance et staking
-- Exercice 00 : Mise en place du mécanisme de staking et de récompenses.
-- Exercice 01 : Mise en place du vote pour la gouvernance.
-- Exercice 02 : Implémentation des récompenses en fonction des votes.
+- Exercice 00 : Mise en place du mécanisme de stakings.
+- Exercice 01 : Récompense de staking
+- Exercice 02 : Mise en place du vote pour la gouvernance.
 
 ### Day 04 - Création d'une collection de NFT
 - Exercice 00 : Génération d'une collection de NFT à partir de layers.

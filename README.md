@@ -20,7 +20,7 @@ La piscine Web3 est divisée en plusieurs jours, chacun se concentrant sur des a
 - Exercice 03 : Sécuriser et tester le contrat du jeu.
 
 ### Day 02 - Développement d'une dApp
-- Exercice 00 : Création de l'interface utilisateur de connexion.
+- Exercice 00 : Création de l'interface utilisateur du jeu.
 - Exercice 01 : Implémentation de fonctionnalités supplémentaires dans la dApp.
 - Exercice 02 : Implémentation de fonctionnalités supplémentaires dans la dApp.
 - Exercice 03 : Amélioration de l'interface utilisateur et de l'expérience utilisateur.

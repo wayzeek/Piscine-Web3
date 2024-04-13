@@ -1,45 +1,53 @@
-# Piscine Web3
+# 🚀 Piscine Web3
 
-Bienvenue dans la piscine Web3 ! Cette piscine a été conçue pour vous initier au développement Web3 et vous permettre de découvrir les concepts et les technologies clés du Web décentralisé. Vous explorerez des sujets tels que les contrats intelligents, les jetons non fongibles (NFT), la gouvernance décentralisée et bien plus encore.
+Welcome to the Piscine Web3! This program is designed to introduce you to Web3 development and help you explore key concepts and technologies of the decentralized web, including smart contracts, non-fungible tokens (NFTs), decentralized governance, and more.
 
-## Organisation de la piscine
+## 📚 Table of Contents
 
-La piscine Web3 est divisée en plusieurs jours, chacun se concentrant sur des aspects spécifiques du développement Web3. Voici un aperçu de chaque jour :
+- [Introduction](#introduction)
+- [Pool Organization](#pool-organization)
+- [Ready to Dive into Web3?](#ready-to-dive-into-web3)
 
-### Day 00 - Découverte du Web3
-- Exercice 00 : Créez un portefeuille Ethereum et obtenez des fonds de test.
-- Exercice 01 : Utilisez un explorateur de blocs pour explorer les transactions et les contrats intelligents sur la blockchain Ethereum.
-- Exercice 02 : Implémentez une fonction simple en Solidity qui effectue une opération arithmétique.
-- Exercice 03 : Déployez un contrat intelligent sur la blockchain Ethereum.
-- Exercice 04 : Créez votre propre token.
+## 📖 Introduction
 
-### Day 01 - Contrats intelligents
-- Exercice 00 : Convertissez vos ETH en votre token.
-- Exercice 01 : Développement d'un jeu Web3.
-- Exercice 02 : Déploiement du jeu.
-- Exercice 03 : Sécuriser et tester le contrat du jeu.
+Discover the exciting possibilities of Web3 development and learn about decentralized technologies that power applications on the blockchain.
 
-### Day 02 - Développement d'une dApp
-- Exercice 00 : Création de l'interface utilisateur du jeu.
-- Exercice 01 : Implémentation de fonctionnalités supplémentaires dans la dApp.
-- Exercice 02 : Implémentation de fonctionnalités supplémentaires dans la dApp.
-- Exercice 03 : Amélioration de l'interface utilisateur et de l'expérience utilisateur.
+## 🌊 Pool Organization
 
-### Day 03 - Gouvernance et staking
-- Exercice 00 : Mise en place du mécanisme de stakings.
-- Exercice 01 : Récompense de staking
-- Exercice 02 : Mise en place du vote pour la gouvernance.
+### Day 00 - Discovering Web3
+- Exercise 00: Create an Ethereum wallet and obtain test funds.
+- Exercise 01: Use a block explorer to explore transactions and smart contracts on the Ethereum blockchain.
+- Exercise 02: Implement a simple function in Solidity for arithmetic operations.
+- Exercise 03: Deploy a smart contract on the Ethereum blockchain.
+- Exercise 04: Create your own token.
 
-### Day 04 - Création d'une collection de NFT
-- Exercice 00 : Génération d'une collection de NFT à partir de layers.
-- Exercice 01 : Contrat de mint pour les NFT.
-- Exercice 02 : Développement de l'interface de la collection de NFT.
+### Day 01 - Smart Contracts
+- Exercise 00: Convert your ETH to your own token.
+- Exercise 01: Develop a Web3 game.
+- Exercise 02: Deploy the game.
+- Exercise 03: Secure and test the game contract.
 
-Chaque jour de la piscine vous propose des exercices progressifs, vous permettant de monter en compétences et d'appliquer les concepts appris précédemment. N'hésitez pas à poser des questions et à demander de l'aide si nécessaire.
+### Day 02 - dApp Development
+- Exercise 00: Create the user interface for the game.
+- Exercise 01: Implement additional features in the dApp.
+- Exercise 02: Implement additional features in the dApp.
+- Exercise 03: Enhance the user interface and user experience.
 
-## Prêt à plonger dans le Web3 ?
+### Day 03 - Governance and Staking
+- Exercise 00: Set up a staking mechanism.
+- Exercise 01: Staking rewards.
+- Exercise 02: Implement governance voting.
 
-Préparez-vous à plonger dans le monde passionnant du développement Web3 ! Suivez les instructions de chaque exercice, développez vos compétences et explorez les possibilités offertes par le Web décentralisé.
-Bonne chance et profitez de cette expérience immersive dans le Web3 !
+### Day 04 - Creating an NFT Collection
+- Exercise 00: Generate an NFT collection from layers.
+- Exercise 01: Mint contract for NFTs.
+- Exercise 02: Develop the NFT collection interface.
 
-vcart
+Each day provides progressive exercises to build your skills and apply previously learned concepts. Feel free to ask questions and seek help if needed.
+
+## 🏊 Ready to Dive into Web3?
+
+Prepare to dive into the exciting world of Web3 development! Follow the instructions for each exercise, develop your skills, and explore the possibilities of the decentralized web.
+Good luck and enjoy this immersive experience in Web3!
+
+Contributed by [vcart](https://github.com/vcart)

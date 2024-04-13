@@ -5,14 +5,14 @@ Welcome to the Piscine Web3! This program is designed to introduce you to Web3 d
 ## 📚 Table of Contents
 
 - [Introduction](#introduction)
-- [Pool Organization](#pool-organization)
+- [Piscine Organization](#piscine-organization)
 - [Ready to Dive into Web3?](#ready-to-dive-into-web3)
 
 ## 📖 Introduction
 
 Discover the exciting possibilities of Web3 development and learn about decentralized technologies that power applications on the blockchain.
 
-## 🌊 Pool Organization
+## 🌊 Piscine Organization
 
 ### Day 00 - Discovering Web3
 - Exercise 00: Create an Ethereum wallet and obtain test funds.
@@ -50,4 +50,6 @@ Each day provides progressive exercises to build your skills and apply previousl
 Prepare to dive into the exciting world of Web3 development! Follow the instructions for each exercise, develop your skills, and explore the possibilities of the decentralized web.
 Good luck and enjoy this immersive experience in Web3!
 
-Contributed by [vcart](https://github.com/vcart)
+## 🏆 Credits
+
+This program has been brought to you by [falonso](https://github.com/Florian-A) and [myself](https://github.com/wayzeek).
